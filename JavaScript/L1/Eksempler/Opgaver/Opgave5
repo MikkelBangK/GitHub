@@ -1,0 +1,20 @@
+let x = 2;
+let y = 2;
+let stop = 201;
+let l = [];
+
+while(x <= stop){
+    y = 2
+    let isNotPrime = false;
+    while(y < x){
+if(x % y == 0){
+isNotPrime = true;
+}
+y++;
+}
+if(!isNotPrime){
+l.push(x);
+}
+x++;
+}
+console.log(l);
