@@ -1,0 +1,15 @@
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/bin/Debug/net8.0/OpgaverL5
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/bin/Debug/net8.0/OpgaverL5.deps.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/bin/Debug/net8.0/OpgaverL5.runtimeconfig.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/bin/Debug/net8.0/OpgaverL5.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/bin/Debug/net8.0/OpgaverL5.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/obj/Debug/net8.0/OpgaverL5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/obj/Debug/net8.0/OpgaverL5.AssemblyInfoInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/obj/Debug/net8.0/OpgaverL5.AssemblyInfo.cs
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/obj/Debug/net8.0/OpgaverL5.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/obj/Debug/net8.0/OpgaverL5.sourcelink.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/obj/Debug/net8.0/OpgaverL5.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/obj/Debug/net8.0/refint/OpgaverL5.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/obj/Debug/net8.0/OpgaverL5.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/obj/Debug/net8.0/OpgaverL5.genruntimeconfig.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/OpgaverL5/OpgaverL5/obj/Debug/net8.0/ref/OpgaverL5.dll

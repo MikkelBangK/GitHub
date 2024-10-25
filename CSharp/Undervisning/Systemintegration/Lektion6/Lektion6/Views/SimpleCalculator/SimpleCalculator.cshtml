@@ -1,0 +1,25 @@
+@{
+@using (Html.BeginForm("SimpleCalculator", "SimpleCalculator", FormMethod.Post))
+{
+
+<h1>Welcome to the world's worst calculator!!!</h1>
+<p>
+    @Html.TextBox("First") <br/>
+
+    @Html.TextBox("Second") <br/>
+    
+</p>
+<p>
+    <input type="submit" name = "operation" value="Add">
+    <input type="submit" name = "operation"  value="Subtract">
+    <input type="submit" name = "operation"  value="Multiply">
+    <input type="submit" name = "operation"  value="Devide">
+</p>
+}
+
+<p>
+    Your result might be = @ViewBag.Result
+</p>
+
+
+}

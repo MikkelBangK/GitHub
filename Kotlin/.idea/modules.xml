@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kotlin.iml" filepath="$PROJECT_DIR$/Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01/L01.iml" filepath="$PROJECT_DIR$/L01/L01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02/L02.iml" filepath="$PROJECT_DIR$/L02/L02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03/L03.iml" filepath="$PROJECT_DIR$/L03/L03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1Kotlin/L1Kotlin.iml" filepath="$PROJECT_DIR$/L1Kotlin/L1Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2Kotlin/L2Kotlin.iml" filepath="$PROJECT_DIR$/L2Kotlin/L2Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L5Kotlin/L5Kotlin.iml" filepath="$PROJECT_DIR$/L5Kotlin/L5Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L6Kotlin/L6Kotlin.iml" filepath="$PROJECT_DIR$/L6Kotlin/L6Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L7Kotlin/L7Kotlin.iml" filepath="$PROJECT_DIR$/L7Kotlin/L7Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Obligatorisk/Obligatorisk.iml" filepath="$PROJECT_DIR$/Obligatorisk/Obligatorisk.iml" />
+    </modules>
+  </component>
+</project>

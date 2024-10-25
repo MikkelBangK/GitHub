@@ -1,0 +1,15 @@
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/bin/Debug/net8.0/L5Opgave3
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/bin/Debug/net8.0/L5Opgave3.deps.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/bin/Debug/net8.0/L5Opgave3.runtimeconfig.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/bin/Debug/net8.0/L5Opgave3.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/bin/Debug/net8.0/L5Opgave3.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/obj/Debug/net8.0/L5Opgave3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/obj/Debug/net8.0/L5Opgave3.AssemblyInfoInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/obj/Debug/net8.0/L5Opgave3.AssemblyInfo.cs
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/obj/Debug/net8.0/L5Opgave3.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/obj/Debug/net8.0/L5Opgave3.sourcelink.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/obj/Debug/net8.0/L5Opgave3.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/obj/Debug/net8.0/refint/L5Opgave3.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/obj/Debug/net8.0/L5Opgave3.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/obj/Debug/net8.0/L5Opgave3.genruntimeconfig.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/L5Opgave3/L5Opgave3/obj/Debug/net8.0/ref/L5Opgave3.dll

@@ -5,7 +5,7 @@ using namespace std;
 
 
 int main() {
-    //rng();
+    rng();
 
     string* abc = DMU_ReverseAlphabet();
     cout << *abc << endl;
@@ -15,8 +15,7 @@ int main() {
 
     ft_is_negative(9);
 
-    DMU_split(Havmåge, v);
-
+   // DMU_split(Havmåge, v);
 
     return 0;
 }

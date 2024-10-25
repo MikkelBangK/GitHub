@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vgEnnkoTNVM=",
+  "success": true,
+  "projectFilePath": "/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Systemintegration/MSMQ ny/Consumer/Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/mikkelkristensen/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/Users/mikkelkristensen/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/mikkelkristensen/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

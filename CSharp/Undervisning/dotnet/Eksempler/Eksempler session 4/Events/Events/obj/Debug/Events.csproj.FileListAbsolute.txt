@@ -1,0 +1,15 @@
+H:/DotNet/S22/Sessioner/Session 4/Eksempler/Events/Events/bin/Debug/Events.exe.config
+H:/DotNet/S22/Sessioner/Session 4/Eksempler/Events/Events/bin/Debug/Events.exe
+H:/DotNet/S22/Sessioner/Session 4/Eksempler/Events/Events/bin/Debug/Events.pdb
+H:/DotNet/S22/Sessioner/Session 4/Eksempler/Events/Events/obj/Debug/Events.csproj.AssemblyReference.cache
+H:/DotNet/S22/Sessioner/Session 4/Eksempler/Events/Events/obj/Debug/Events.csproj.SuggestedBindingRedirects.cache
+H:/DotNet/S22/Sessioner/Session 4/Eksempler/Events/Events/obj/Debug/Events.csproj.CoreCompileInputs.cache
+H:/DotNet/S22/Sessioner/Session 4/Eksempler/Events/Events/obj/Debug/Events.exe
+H:/DotNet/S22/Sessioner/Session 4/Eksempler/Events/Events/obj/Debug/Events.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Eksempler/Eksempler session 4/Events/Events/bin/Debug/Events.exe.config
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Eksempler/Eksempler session 4/Events/Events/bin/Debug/Events.exe
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Eksempler/Eksempler session 4/Events/Events/bin/Debug/Events.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Eksempler/Eksempler session 4/Events/Events/obj/Debug/Events.csproj.AssemblyReference.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Eksempler/Eksempler session 4/Events/Events/obj/Debug/Events.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Eksempler/Eksempler session 4/Events/Events/obj/Debug/Events.exe
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Eksempler/Eksempler session 4/Events/Events/obj/Debug/Events.pdb

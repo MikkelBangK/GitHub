@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Solution7Opgaver.props" />
+</Project>

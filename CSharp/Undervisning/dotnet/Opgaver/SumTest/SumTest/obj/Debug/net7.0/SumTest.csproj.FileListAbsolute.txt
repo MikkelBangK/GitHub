@@ -1,0 +1,15 @@
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/bin/Debug/net7.0/SumTest
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/bin/Debug/net7.0/SumTest.deps.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/bin/Debug/net7.0/SumTest.runtimeconfig.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/bin/Debug/net7.0/SumTest.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/bin/Debug/net7.0/SumTest.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/obj/Debug/net7.0/SumTest.csproj.AssemblyReference.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/obj/Debug/net7.0/SumTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/obj/Debug/net7.0/SumTest.AssemblyInfoInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/obj/Debug/net7.0/SumTest.AssemblyInfo.cs
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/obj/Debug/net7.0/SumTest.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/obj/Debug/net7.0/SumTest.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/obj/Debug/net7.0/refint/SumTest.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/obj/Debug/net7.0/SumTest.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/obj/Debug/net7.0/SumTest.genruntimeconfig.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/SumTest/SumTest/obj/Debug/net7.0/ref/SumTest.dll

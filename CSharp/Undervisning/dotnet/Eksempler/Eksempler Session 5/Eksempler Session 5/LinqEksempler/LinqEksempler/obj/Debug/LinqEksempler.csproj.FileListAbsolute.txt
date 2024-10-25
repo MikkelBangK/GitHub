@@ -1,0 +1,32 @@
+H:\DotNet\S22\Sessioner\Session 5\Eksempler\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.exe.config
+H:\DotNet\S22\Sessioner\Session 5\Eksempler\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.exe
+H:\DotNet\S22\Sessioner\Session 5\Eksempler\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.pdb
+H:\DotNet\S22\Sessioner\Session 5\Eksempler\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.AssemblyReference.cache
+H:\DotNet\S22\Sessioner\Session 5\Eksempler\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.SuggestedBindingRedirects.cache
+H:\DotNet\S22\Sessioner\Session 5\Eksempler\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.CoreCompileInputs.cache
+H:\DotNet\S22\Sessioner\Session 5\Eksempler\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.exe
+H:\DotNet\S22\Sessioner\Session 5\Eksempler\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.pdb
+H:\DotNet\S22\DMU-20x\Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.exe.config
+H:\DotNet\S22\DMU-20x\Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.exe
+H:\DotNet\S22\DMU-20x\Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.pdb
+H:\DotNet\S22\DMU-20x\Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.AssemblyReference.cache
+H:\DotNet\S22\DMU-20x\Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.SuggestedBindingRedirects.cache
+H:\DotNet\S22\DMU-20x\Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.CoreCompileInputs.cache
+H:\DotNet\S22\DMU-20x\Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.exe
+H:\DotNet\S22\DMU-20x\Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 5\Eksempler Session 5_21X\Eksempler Session 5\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.exe.config
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 5\Eksempler Session 5_21X\Eksempler Session 5\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.exe
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 5\Eksempler Session 5_21X\Eksempler Session 5\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 5\Eksempler Session 5_21X\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.AssemblyReference.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 5\Eksempler Session 5_21X\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.SuggestedBindingRedirects.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 5\Eksempler Session 5_21X\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.CoreCompileInputs.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 5\Eksempler Session 5_21X\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.exe
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 5\Eksempler Session 5_21X\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 5\Eksempler Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.exe.config
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 5\Eksempler Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.exe
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 5\Eksempler Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\bin\Debug\LinqEksempler.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 5\Eksempler Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.AssemblyReference.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 5\Eksempler Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.SuggestedBindingRedirects.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 5\Eksempler Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.csproj.CoreCompileInputs.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 5\Eksempler Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.exe
+C:\Users\klbo\OneDrive - EFIF\DotNet\S23\Session 5\Eksempler Session 5\Eksempler Session 5\LinqEksempler\LinqEksempler\obj\Debug\LinqEksempler.pdb

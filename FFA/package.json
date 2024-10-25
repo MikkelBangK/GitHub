@@ -1,0 +1,17 @@
+{
+  "name": "ffa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SynneKCUBE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikkelBangK/GitHub.git"
+  },
+  "private": true,
+  "dependencies": {
+    "three": "^0.164.1"
+  }
+}

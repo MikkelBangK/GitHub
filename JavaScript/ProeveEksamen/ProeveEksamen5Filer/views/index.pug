@@ -1,0 +1,30 @@
+doctype html
+html
+
+    head
+        title Kontaktliste
+        script(src='/index.js')
+    body
+        h1 Kontaktliste
+        form(action="/add" method="POST")
+            div
+                label(for="navn") Navn:
+                input(type="text" name="navn" id="navn" required)
+            div
+                label(for="telefonnummer") Telefonnummer:
+                input(type="text" name="telefonnummer" id="telefonnummer" required)
+            div
+                button(type="submit") Tilføj kontakt
+        if kontakter.length
+            table
+                thead
+                    tr
+                        th Navn
+                        th Telefonnummer
+                tbody
+                    each kontakt in kontakter
+                        tr
+                            td= kontakt.navn
+                            td= kontakt.telefonnummer
+        else
+            p Ingen kontakter tilføjet endnu.

@@ -1,0 +1,53 @@
+script.
+
+
+    async function post(url, objekt) {
+        const respons = await fetch(url, {
+            method: "POST",
+    body: JSON.stringify(objekt),
+    headers: {
+    'Content-Type': 'application/json'
+    }
+    });
+    if (respons.status !== 201) // Created
+        throw new Error(respons.status);
+    return await respons.text();
+    }
+
+    let clickfunction = async (id) => {
+        try {
+            console.log(id + " er købt")
+            await post("http://localhost:8000/koeb", { id });
+            window.location.href = "http://localhost:8000/shop";
+    } catch (e) {
+    console.log("Fejl");
+    }
+    }
+
+
+
+
+body
+    table
+        th Produkter
+        th Pris
+            each produkt in Produkt
+                tr
+                    td= produkt.produkt
+                    td= produkt.pris
+                        button(onclick='clickfunction("' + produkt.produkt + '")') Køb produkt
+table
+    th id
+        each id in kurv
+            tr
+                td= id
+                tr
+p
+
+
+
+
+
+
+
+

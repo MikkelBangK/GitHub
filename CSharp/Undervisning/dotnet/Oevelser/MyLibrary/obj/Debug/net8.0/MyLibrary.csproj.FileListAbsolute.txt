@@ -1,0 +1,12 @@
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/bin/Debug/net8.0/MyLibrary.deps.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/bin/Debug/net8.0/MyLibrary.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/bin/Debug/net8.0/MyLibrary.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/obj/Debug/net8.0/MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/obj/Debug/net8.0/MyLibrary.AssemblyInfoInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/obj/Debug/net8.0/MyLibrary.AssemblyInfo.cs
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/obj/Debug/net8.0/MyLibrary.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/obj/Debug/net8.0/MyLibrary.sourcelink.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/obj/Debug/net8.0/MyLibrary.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/obj/Debug/net8.0/refint/MyLibrary.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/obj/Debug/net8.0/MyLibrary.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Oevelser/MyLibrary/obj/Debug/net8.0/ref/MyLibrary.dll

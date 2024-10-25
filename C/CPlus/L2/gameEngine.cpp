@@ -8,12 +8,17 @@ using namespace std;
 
 
 void rng() {
-    srand(time(NULL));
+    srand(time(nullptr));
     int i = std::rand() % 100;
     int count = 0;
-    int x;
-    while (x >= 0 && i != x) {
+    int x = -1;
+    cout << "Welcome to guess the number!\nIf you guess wrong you will be sent to the shadow realm!\nGood luck my g!";
+    while (x != i) {
         cin >> x;
+        if (x < 0){
+            cout << "Please enter a non-negative number.\n";
+            continue;
+        }
         if (x == i) {
             cout << "You guess was: " << x;
             cout << "\n";
@@ -48,7 +53,6 @@ void ft_is_negative(int n){
     }
 }
 
-string* DMU_split(char const *s, char c){
-    string* splits [0];
-
-}
+ string* DMU_split(char const *s, char c){
+      string* splits [0];
+ }

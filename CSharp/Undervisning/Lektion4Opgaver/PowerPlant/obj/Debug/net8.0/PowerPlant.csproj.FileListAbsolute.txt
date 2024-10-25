@@ -1,0 +1,15 @@
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/bin/Debug/net8.0/PowerPlant
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/bin/Debug/net8.0/PowerPlant.deps.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/bin/Debug/net8.0/PowerPlant.runtimeconfig.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/bin/Debug/net8.0/PowerPlant.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/bin/Debug/net8.0/PowerPlant.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/obj/Debug/net8.0/PowerPlant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/obj/Debug/net8.0/PowerPlant.AssemblyInfoInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/obj/Debug/net8.0/PowerPlant.AssemblyInfo.cs
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/obj/Debug/net8.0/PowerPlant.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/obj/Debug/net8.0/PowerPlant.sourcelink.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/obj/Debug/net8.0/PowerPlant.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/obj/Debug/net8.0/refint/PowerPlant.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/obj/Debug/net8.0/PowerPlant.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/obj/Debug/net8.0/PowerPlant.genruntimeconfig.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/PowerPlant/obj/Debug/net8.0/ref/PowerPlant.dll

@@ -5,10 +5,13 @@ let labelAlder = document.querySelector("#alder");
 labelAlder.outerHTML = "<label> alder: " + labelAlder.outerHTML + "</label>"
 
 
+
 let personListe = [];
 
 let button = document.querySelector("#knap")
 button.onclick = addPerson;
+let navn = document.querySelector("#navn");
+let alder = document.querySelector("#alder");
 
 function addPerson(){
 personListe.push = {

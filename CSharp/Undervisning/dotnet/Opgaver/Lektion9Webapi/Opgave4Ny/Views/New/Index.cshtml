@@ -1,0 +1,25 @@
+@model List<Lektion9Webapi.Person>
+
+    <h1>Lektion 9 opgave 4</h1>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Navn</th>
+            <th>Alder</th>
+            <th>Id</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var person in Model)
+        {
+            <tr>
+                <td>@person.Name</td>
+                <td>@person.Age</td>
+                <td>@person.Id</td>
+                <td><a href="@Url.Action("Details", new { id = person.Id })">Detaljer</a></td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+<a href="@Url.Action("Create", "NewController")">Opret ny person</a>

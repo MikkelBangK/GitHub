@@ -1,0 +1,15 @@
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/bin/Debug/net8.0/FactorialPowerPlant
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/bin/Debug/net8.0/FactorialPowerPlant.deps.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/bin/Debug/net8.0/FactorialPowerPlant.runtimeconfig.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/bin/Debug/net8.0/FactorialPowerPlant.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/bin/Debug/net8.0/FactorialPowerPlant.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/obj/Debug/net8.0/FactorialPowerPlant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/obj/Debug/net8.0/FactorialPowerPlant.AssemblyInfoInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/obj/Debug/net8.0/FactorialPowerPlant.AssemblyInfo.cs
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/obj/Debug/net8.0/FactorialPowerPlant.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/obj/Debug/net8.0/FactorialPowerPlant.sourcelink.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/obj/Debug/net8.0/FactorialPowerPlant.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/obj/Debug/net8.0/refint/FactorialPowerPlant.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/obj/Debug/net8.0/FactorialPowerPlant.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/obj/Debug/net8.0/FactorialPowerPlant.genruntimeconfig.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion4Opgaver/FactorialPowerPlant/obj/Debug/net8.0/ref/FactorialPowerPlant.dll

@@ -1,0 +1,13 @@
+# ninja log v6
+5	397	1717325345226039978	CMakeFiles/EksamenBlackjack.dir/Card.cpp.o	7cb59f57d0e42545
+8	463	1717327343620356137	CMakeFiles/EksamenBlackjack.dir/GameLogic.cpp.o	ae7ee6e0c3dc126f
+8	447	1717327343619804010	CMakeFiles/EksamenBlackjack.dir/main.cpp.o	f82dbfc72f5b2a66
+8	444	1717327343620195720	CMakeFiles/EksamenBlackjack.dir/Player.cpp.o	d337ab542127f3ff
+5	501	1717325345226306271	CMakeFiles/EksamenBlackjack.dir/Deck.cpp.o	330f4f3ee75e94eb
+463	565	1717327344075305222	EksamenBlackjack	187af5c8e625ee9b
+5	400	1717337962558429764	CMakeFiles/EksamenBlackjack.dir/Card.cpp.o	a7e79f6d0eecc04c
+5	484	1717337962558733553	CMakeFiles/EksamenBlackjack.dir/Player.cpp.o	278b2d5af91dc9bd
+5	491	1717337962558850386	CMakeFiles/EksamenBlackjack.dir/GameLogic.cpp.o	7cedeefb469bb9ab
+4	493	1717337962557769643	CMakeFiles/EksamenBlackjack.dir/main.cpp.o	1901cb11248daa36
+5	506	1717337962558605429	CMakeFiles/EksamenBlackjack.dir/Deck.cpp.o	63c4cd4edd32ca04
+506	610	1717337963060162365	EksamenBlackjack	187af5c8e625ee9b

@@ -1,0 +1,13 @@
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/bin/Debug/net8.0/MSMQ.deps.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/bin/Debug/net8.0/MSMQ.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/bin/Debug/net8.0/MSMQ.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/obj/Debug/net8.0/MSMQ.csproj.AssemblyReference.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/obj/Debug/net8.0/MSMQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/obj/Debug/net8.0/MSMQ.AssemblyInfoInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/obj/Debug/net8.0/MSMQ.AssemblyInfo.cs
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/obj/Debug/net8.0/MSMQ.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/obj/Debug/net8.0/MSMQ.sourcelink.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/obj/Debug/net8.0/MSMQ.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/obj/Debug/net8.0/refint/MSMQ.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/obj/Debug/net8.0/MSMQ.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/MSMQ/MSMQ/obj/Debug/net8.0/ref/MSMQ.dll

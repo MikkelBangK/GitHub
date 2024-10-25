@@ -1,0 +1,28 @@
+scripts (src='/index.js')
+
+    head
+        title Person App
+    body
+        h1 Person App
+        form(action="/tilføj" method="POST")
+            div
+                label(for="navn") Navn:
+                input(type="text" navn="navn" id="navn" required)
+            div
+                label(for="adresse") Adresse:
+                input(type="text" name="adresse" id="adresse" required)
+            div
+                button(type="submit") Tilføj person
+        if personer.length
+            table
+                thead
+                    tr
+                        th Navn
+                        th Adresse
+                tbody
+                    each person in personer
+                        tr
+                            td= person.navn
+                            td= person.adresse
+        else
+            p Ingen personer tilføjet endnu.

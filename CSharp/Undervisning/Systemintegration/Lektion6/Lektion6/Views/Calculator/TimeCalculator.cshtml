@@ -1,0 +1,31 @@
+@{
+    @using (Html.BeginForm("TimeCalculator", "Calculator", FormMethod.Post))
+    {
+
+        <h1>Time calculator in seconds!</h1>
+        <p>
+            @Html.Label("Hours") <br/>
+            @Html.TextBox("Hours") <br/>
+        </p>
+        <p>
+        </p>
+        <p>
+            @Html.Label("Minutes") <br/>
+
+            @Html.TextBox("Minutes") <br/>
+
+            @Html.Label("Seconds") <br/>
+
+            @Html.TextBox("Seconds") <br/>
+        </p>
+        <p>
+            <input type="submit" value="Calculate time">
+        </p>
+    }
+
+    <p>
+           Time in seconds = @ViewBag.totalSeconds
+        </p>
+    
+    
+}

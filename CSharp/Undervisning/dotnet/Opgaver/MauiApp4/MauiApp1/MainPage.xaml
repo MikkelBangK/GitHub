@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="MauiApp1.MainPage">
+
+    <ScrollView>
+        <toolkit:DockLayout>
+            <Button toolkit:DockLayout.DockPosition="Top"
+                x:Name="North"
+                Text="North"
+                SemanticProperties.Hint="Adds North to the editor"
+                HorizontalOptions="Fill"
+                VerticalOptions="Start"
+                Clicked="North_OnClicked"
+                />
+            <Button toolkit:DockLayout.DockPosition="Right"
+                x:Name="East"
+                Text="East"
+                SemanticProperties.Hint="Adds East to the editor"
+                HorizontalOptions="End" 
+                VerticalOptions="Fill"
+                Clicked="East_OnClicked"
+                />
+            <Button toolkit:DockLayout.DockPosition="Left"
+                x:Name="West"
+                Text="West"
+                SemanticProperties.Hint="Adds West to the editor"
+                HorizontalOptions="Start"
+                VerticalOptions="Fill"
+                Clicked="West_OnClicked"
+                />
+            <Button toolkit:DockLayout.DockPosition="Bottom"
+                x:Name="South"
+                Text="South"
+                SemanticProperties.Hint="Adds West to the editor"
+                HorizontalOptions="Fill" 
+                VerticalOptions="End"
+                Clicked="South_OnClicked"
+                />
+            <Editor x:Name="Editor" 
+                    WidthRequest="100"
+                    VerticalOptions="Start"
+                    HorizontalOptions="Center"
+                    AutoSize="TextChanges"
+                    
+                    >
+                
+            </Editor>
+        </toolkit:DockLayout>
+    </ScrollView>
+
+</ContentPage>

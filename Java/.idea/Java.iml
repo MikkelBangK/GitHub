@@ -3,32 +3,33 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/OS/TrådEksempel/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/TestProjekt/Test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/TestProjekt/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/OS/DaosSoloProjekt/DaosObligatoriskSoloProjekt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/OS/DaosSoloProjekt4/Monitor/BankAccountEks" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/OS/Deadlocks/BankAccountEks 2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/OS/Deadlocks/Bankeks1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/OS/L18 TrådPro/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/OS/StackTråd/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Chekbox/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/ChekedVsUnCheked/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/CollectionOgMapsTeoriDatastruktur/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/CustomException/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/DatastrukturTeoriSomOgsaErGeneric/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Exception/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/GuiOvelser/GuiListView/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/GuiOvelser/GuiRadioButtom/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/GuiOvelser/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/LambdaTeori/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Lommeregner/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Prove/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Rekursion/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Snake/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester1Og2/Datamatiker/Eksamen/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Semester3/DIS/L1Threads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Eksamen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/OS/DaosSoloProjekt/DaosObligatoriskSoloProjekt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/OS/DaosSoloProjekt4/Monitor/BankAccountEks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/OS/src/Deadlocks/BankAccountEks 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/OS/src/Deadlocks/Bankeks1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/OS/src/L18 TrådPro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/OS/src/StackTråd/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/OS/src/TrådEksempel/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Chekbox/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/ChekedVsUnCheked/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/CollectionOgMapsTeoriDatastruktur/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/CustomException/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/DatastrukturTeoriSomOgsaErGeneric/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Exception/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/GuiOvelser/GuiListView/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/GuiOvelser/GuiRadioButtom/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/GuiOvelser/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/LambdaTeori/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Lommeregner/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Prove/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Rekursion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/Snake/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/Ovelse/src/progNoter (1)/Min ovelser/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/TestProjekt/Test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester1Og2/src/Datamatiker/TestProjekt/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Semester3/DIS/L1Threads/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

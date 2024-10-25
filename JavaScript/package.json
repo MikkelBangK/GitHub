@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chai": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "firebase": "^10.12.1",
+    "mocha": "^10.3.0",
+    "pug": "^3.0.3",
+    "session": "^0.1.0"
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "opgave 13.3.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha 'L6Test/*.test.js'"
+  },
+  "author": "mig",
+  "license": "ISC",
+  "description": "first test g"
+}

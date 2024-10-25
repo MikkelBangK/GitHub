@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Opgave3Ny.app/Contents/MacOS/Opgave3Ny">
+      <BCSymbolMapName>Opgave3Ny.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Opgave3Ny.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/MauiApp4/Opgave3Ny/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>Opgave3Ny.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/MauiApp4/Opgave3Ny</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

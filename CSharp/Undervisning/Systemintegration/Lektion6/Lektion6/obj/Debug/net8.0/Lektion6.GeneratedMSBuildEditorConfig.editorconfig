@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lektion6
+build_property.RootNamespace = Lektion6
+build_property.ProjectDir = /Users/mikkelkristensen/GitHub/CSharp/Undervisning/Systemintegration/Lektion6/Lektion6/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mikkelkristensen/GitHub/CSharp/Undervisning/Systemintegration/Lektion6/Lektion6
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Systemintegration/Lektion6/Lektion6/Views/Calculator/TimeCalculator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FsY3VsYXRvci9UaW1lQ2FsY3VsYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Systemintegration/Lektion6/Lektion6/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Systemintegration/Lektion6/Lektion6/Views/RockBands/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9ja0JhbmRzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Systemintegration/Lektion6/Lektion6/Views/SimpleCalculator/SimpleCalculator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2ltcGxlQ2FsY3VsYXRvci9TaW1wbGVDYWxjdWxhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Systemintegration/Lektion6/Lektion6/Views/SimpleCalculator/SimpleCalculatorResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2ltcGxlQ2FsY3VsYXRvci9TaW1wbGVDYWxjdWxhdG9yUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

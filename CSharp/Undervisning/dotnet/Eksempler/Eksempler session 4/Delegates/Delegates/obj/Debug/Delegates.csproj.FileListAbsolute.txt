@@ -1,0 +1,16 @@
+H:\DotNet\S22\Sessioner\Session 4\Eksempler\Delegates\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+H:\DotNet\S22\Sessioner\Session 4\Eksempler\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+H:\DotNet\S22\Sessioner\Session 4\Eksempler\Delegates\Delegates\bin\Debug\Delegates.exe.config
+H:\DotNet\S22\Sessioner\Session 4\Eksempler\Delegates\Delegates\bin\Debug\Delegates.exe
+H:\DotNet\S22\Sessioner\Session 4\Eksempler\Delegates\Delegates\bin\Debug\Delegates.pdb
+H:\DotNet\S22\Sessioner\Session 4\Eksempler\Delegates\Delegates\obj\Debug\Delegates.exe
+H:\DotNet\S22\Sessioner\Session 4\Eksempler\Delegates\Delegates\obj\Debug\Delegates.pdb
+H:\DotNet\S22\Sessioner\Session 4\Eksempler\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+H:\DotNet\S22\Sessioner\Session 4\Eksempler session 4\Delegates\Delegates\bin\Debug\Delegates.exe.config
+H:\DotNet\S22\Sessioner\Session 4\Eksempler session 4\Delegates\Delegates\bin\Debug\Delegates.exe
+H:\DotNet\S22\Sessioner\Session 4\Eksempler session 4\Delegates\Delegates\bin\Debug\Delegates.pdb
+H:\DotNet\S22\Sessioner\Session 4\Eksempler session 4\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+H:\DotNet\S22\Sessioner\Session 4\Eksempler session 4\Delegates\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+H:\DotNet\S22\Sessioner\Session 4\Eksempler session 4\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+H:\DotNet\S22\Sessioner\Session 4\Eksempler session 4\Delegates\Delegates\obj\Debug\Delegates.exe
+H:\DotNet\S22\Sessioner\Session 4\Eksempler session 4\Delegates\Delegates\obj\Debug\Delegates.pdb

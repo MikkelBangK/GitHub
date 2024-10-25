@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Startside</title>
+    <script src="YatzyLogik.js" type ="module" defer></script>
+    <script src = "YatzyGUI.js" type ="module" defer></script>
+    <link rel="stylesheet" href="Yatzy.css">
+    <style>
+        body {
+          margin: 0;
+          padding: 0;
+          background-image: url('yeet.jpeg'); /* Path to your background image */
+          background-size: cover;
+          background-position: center;
+          height: 100vh; /* Ensure the background covers the entire viewport */
+        }
+      </style>
+</head>
+<body>
+    <h1>Ayo yatzy tid my g</h1>>
+    <input type="text" id = "Antal slag" value = "0" readonly>
+    <button id ="YEET">YEET</button>
+    <div id = "diceContainer">
+        <div id="d1" class="dice"><img src = "Dice1.png"></div>
+        <div id="d2" class="dice"><img src = "Dice2.png"></div>
+        <div id="d3" class="dice"><img src = "Dice3.png"></div>
+        <div id="d4" class="dice"><img src = "Dice4.png"></div>
+        <div id="d5" class="dice"><img src = "Dice5.png"></div>
+    </div>
+    <div class="points-container">
+        <ul class="points-list">
+            <h2>Points</h2>
+            <li>1's: <input type="text" id="1's" value="0" readonly></li>
+            <li>2's: <input type="text" id="2's" value="0" readonly></li>
+            <li>3's: <input type="text" id="3's" value="0" readonly></li>
+            <li>4's: <input type="text" id="4's" value="0" readonly></li>
+            <li>4's: <input type="text" id="4's" value="0" readonly></li>
+            <li>4's: <input type="text" id="4's" value="0" readonly></li>
+            <li>5's: <input type="text" id="5's" value="0" readonly></li>
+            <li>6's: <input type="text" id="6's" value="0" readonly></li>
+            <li>SUM: <input type="text" id="SUM" value="0" readonly></li>
+            <li>BONUS: <input type="text" id="BONUS" value="0" readonly></li>
+            <li>1 pair: <input type="text" id="1 pair" value="0" readonly></li>
+            <li>2 pairs: <input type="text" id="2 pairs" value="0" readonly></li>
+            <li>3-of-a-kind: <input type="text" id="3 of a kind" value="0" readonly></li>
+            <li>4-of-a-kind: <input type="text" id="4 of a kind" value="0" readonly></li>
+            <li>Small Straight: <input type="text" id="small straight" value="0" readonly></li>
+            <li>Big straight: <input type="text" id="big straight" value="0" readonly></li>
+            <li>House: <input type="text" id="house" value="0" readonly></li>
+            <li>Chance: <input type="text" id="chance" value="0" readonly></li>
+            <li>YATZY: <input type="text" id="YATZY" value="0" readonly></li>
+            <li>TOTAL SUM: <input type="text" id="TOTAL SUM" value="0" readonly></li>
+        </ul>
+    </div>
+</body>
+</html>

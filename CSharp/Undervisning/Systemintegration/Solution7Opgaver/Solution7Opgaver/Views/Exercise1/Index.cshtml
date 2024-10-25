@@ -1,0 +1,23 @@
+@{
+    @using (Html.BeginForm("Index", "Exercise1"))
+    {
+        @Html.DropDownList("Countries")
+        <input type="submit" value="Show Country Code"/>
+        @if (ViewBag.CC != null)
+        {
+            <h2>Country code: @ViewBag.CC </h2>
+        }
+    }
+
+    @using (Html.BeginForm("AddCountry", "Exercise1"))
+    {
+        @Html.Label("Country")
+        @Html.TextBox("Country")
+        <br/>
+        @Html.Label("Country Code")
+        @Html.TextBox("CountryCode")
+        <br/>
+        <input type="submit" value="Add"/>
+    }
+    
+}

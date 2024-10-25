@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Opgave2.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Label Grid.Column="0" Grid.Row="0"
+               x:Name="Slikolaj"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            Text="Slikolaj"
+            >
+        </Label>
+        <Button Grid.Column="1" Grid.Row="0"
+                x:Name="Ombyt1"
+                Text="Ombyt øverste"
+                BackgroundColor="MediumPurple"
+                TextColor="Black"
+                SemanticProperties.Hint="Switches the two words"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Clicked="Ombyt1_OnClicked"
+        />
+        <Label Grid.Column="2" Grid.Row="0"
+               x:Name="Emil"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            Text = "Emil"
+            >
+        </Label>
+        
+        <Label Grid.Column="0" Grid.Row="1"
+               x:Name="Banjomin"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            Text="Banjomin"
+            >
+        </Label>
+        <Button Grid.Column="1" Grid.Row="1"
+                x:Name="Ombyt2"
+                Text="Ombyt nederste"
+                BackgroundColor="MediumPurple"
+                TextColor="Black"
+                SemanticProperties.Hint="Switches the two words"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Clicked="Ombyt2_OnClicked"
+        />
+        <Label Grid.Column="2" Grid.Row="1"
+               x:Name="Mikkel"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            Text = "Mikkel"
+            >
+        </Label>
+    </Grid>
+
+</ContentPage>

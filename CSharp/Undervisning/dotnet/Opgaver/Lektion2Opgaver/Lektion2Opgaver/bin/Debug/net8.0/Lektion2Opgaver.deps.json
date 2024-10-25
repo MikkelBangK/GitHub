@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lektion2Opgaver/1.0.0": {
+        "runtime": {
+          "Lektion2Opgaver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lektion2Opgaver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

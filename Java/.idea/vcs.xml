@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/Semester1Og2/Datamatiker" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Semester1Og2/Datamatiker/Semester2/Sall LagerSystem/src/Sall-Lagersystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Semester1Og2/src/Datamatiker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Semester1Og2/src/Datamatiker/Semester2/Sall LagerSystem/src/Sall-Lagersystem" vcs="Git" />
   </component>
 </project>

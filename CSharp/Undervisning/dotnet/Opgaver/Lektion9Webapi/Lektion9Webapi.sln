@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lektion9Webapi", "Lektion9Webapi\Lektion9Webapi.csproj", "{C6A44627-93DB-4D69-8F01-D145FAB57165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave4Ny", "Opgave4Ny\Opgave4Ny.csproj", "{9BAFB676-F438-4603-A8DE-B964B28B652D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6A44627-93DB-4D69-8F01-D145FAB57165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A44627-93DB-4D69-8F01-D145FAB57165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A44627-93DB-4D69-8F01-D145FAB57165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A44627-93DB-4D69-8F01-D145FAB57165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAFB676-F438-4603-A8DE-B964B28B652D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAFB676-F438-4603-A8DE-B964B28B652D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAFB676-F438-4603-A8DE-B964B28B652D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAFB676-F438-4603-A8DE-B964B28B652D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

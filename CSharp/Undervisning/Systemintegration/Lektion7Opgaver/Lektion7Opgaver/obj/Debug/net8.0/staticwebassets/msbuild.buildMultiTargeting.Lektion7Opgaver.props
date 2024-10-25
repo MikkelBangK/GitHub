@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Lektion7Opgaver.props" />
+</Project>

@@ -1,0 +1,15 @@
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/bin/Debug/net8.0/Lektion3Opgaver
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/bin/Debug/net8.0/Lektion3Opgaver.deps.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/bin/Debug/net8.0/Lektion3Opgaver.runtimeconfig.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/bin/Debug/net8.0/Lektion3Opgaver.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/bin/Debug/net8.0/Lektion3Opgaver.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/obj/Debug/net8.0/Lektion3Opgaver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/obj/Debug/net8.0/Lektion3Opgaver.AssemblyInfoInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/obj/Debug/net8.0/Lektion3Opgaver.AssemblyInfo.cs
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/obj/Debug/net8.0/Lektion3Opgaver.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/obj/Debug/net8.0/Lektion3Opgaver.sourcelink.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/obj/Debug/net8.0/Lektion3Opgaver.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/obj/Debug/net8.0/refint/Lektion3Opgaver.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/obj/Debug/net8.0/Lektion3Opgaver.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/obj/Debug/net8.0/Lektion3Opgaver.genruntimeconfig.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/Lektion3Opgaver/Lektion3Opgaver/obj/Debug/net8.0/ref/Lektion3Opgaver.dll

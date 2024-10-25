@@ -1,0 +1,6 @@
+@Lektion9Webapi_HostAddress = http://localhost:5120
+
+GET {{Lektion9Webapi_HostAddress}}/ValuesController/
+Accept: application/json
+
+###

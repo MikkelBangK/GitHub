@@ -1,0 +1,26 @@
+head
+  title My Site
+  script(src='/index.js')
+
+body  
+  table
+    p 
+      | Tilføjet personer:
+
+  div     
+    table(border='1')
+      each p in personer 
+        tr
+          td= p.navn
+          td= p.adresse
+
+  // Tekstfelter og knap til at tilføje personer
+  div
+    label(for='navn') Navn:
+    input#navn(type='text', name='navn')
+    label(for='adresse') Adresse:
+    input#adresse(type='text', name='adresse')
+    button(onclick='addPerson()') Tilføj person
+
+   
+        

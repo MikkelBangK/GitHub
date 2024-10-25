@@ -1,0 +1,33 @@
+Reglerne gælder for dette spil:
+
+Målet med spillet:
+- Målet med Blackjack er at slå dealeren ved at samle kort til en samlet værdi,
+der er så tæt på 21 som muligt, uden at overskride det.
+Hvis din hånd overstiger 21, er du 'bust', og du taber automatisk.
+
+
+Kortværdier:
+- Nummerkort (2 til 10) har deres pålydende værdi.
+
+- Billedkort (Knægt, Dame, Konge) har en værdi på 10 point hver.
+
+- Es kan være enten 1 eller 11 point. Es vil automatisk give 11 indtil din totale værdi overstiger
+  21, hvor es derefter vil få tildelt en værdi af 1.
+
+Spillets gang:
+- Spillet begynder med, at du og dealeren hver får to kort.
+  Alle dine kort er synlige, mens dealeren kun viser ét kort.
+
+- Du kan vælge at 'hit' (få et ekstra kort) eller 'stand' (stoppe med at tage flere kort).
+
+- Hvis din hånd overstiger 21, taber du automatisk.
+
+- Når du har valgt at hit, afslører dealeren sit skjulte kort og trækker kort,
+  indtil deres hånd har en værdi på mindst 17 point.
+
+- Hvis dealeren går bust, vinder du. Hvis ikke, vinder den spiller,
+  hvis hånd er tættest på 21 uden at overskride det.
+
+  Blackjack:
+  - Hvis du får 21 point med dine to første kort (et es og et kort med værdi 10),
+    har du blackjack, og du vinder normalt 1,5 gange din indsats.

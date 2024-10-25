@@ -1,0 +1,27 @@
+head
+  title My Site
+  script(src='/index.js')
+
+body  
+  table
+    p 
+      | Tilføjet Kontakter:
+
+  div     
+    table(border='1')
+      each k in kontakter 
+        tr
+          td= k.navn
+          td
+            a(href='#', onclick=`updateKontakt('${k.navn}', '${k.tlf}')`)= k.tlf
+
+  // Tekstfelter og knap til at tilføje personer
+  div
+    label(for='navn') Navn:
+    input#navn(type='text', name='navn')
+    label(for='tlf') Telefon:
+    input#tlf(type='text', name='tlf')
+    button(onclick='addKontakt()') Tilføj kontakt
+
+   
+        
