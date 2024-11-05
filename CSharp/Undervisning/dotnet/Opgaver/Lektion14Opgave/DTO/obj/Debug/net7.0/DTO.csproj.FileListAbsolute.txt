@@ -1,0 +1,12 @@
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/bin/Debug/net7.0/DTO.deps.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/bin/Debug/net7.0/DTO.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/bin/Debug/net7.0/DTO.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/obj/Debug/net7.0/DTO.csproj.AssemblyReference.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/obj/Debug/net7.0/DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/obj/Debug/net7.0/DTO.AssemblyInfoInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/obj/Debug/net7.0/DTO.AssemblyInfo.cs
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/obj/Debug/net7.0/DTO.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/obj/Debug/net7.0/DTO.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/obj/Debug/net7.0/refint/DTO.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/obj/Debug/net7.0/DTO.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DTO/obj/Debug/net7.0/ref/DTO.dll

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+        Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+            
+            <Label
+                Text="Id:"
+                FontSize="20"
+                TextColor="Black"
+                HorizontalOptions="Start" />
+            <Entry
+                x:Name="Id"
+                Placeholder="Enter Id"
+                FontSize="20"
+                TextColor="WhiteSmoke"
+                HorizontalOptions="FillAndExpand" />
+            <Button
+                x:Name="GetStudent"
+                TextColor="FloralWhite"
+                Text="Get Student"
+                SemanticProperties.Hint="Gets the student with the given Id"
+                Clicked = "ButtonClicked"
+                HorizontalOptions="Fill" 
+                IsVisible="False"
+            />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

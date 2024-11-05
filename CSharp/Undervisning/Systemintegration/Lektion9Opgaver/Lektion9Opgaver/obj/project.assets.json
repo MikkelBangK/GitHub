@@ -135,6 +135,7 @@
         "net8.0"
       ],
       "sources": {
+        "/Users/mikkelkristensen/.dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

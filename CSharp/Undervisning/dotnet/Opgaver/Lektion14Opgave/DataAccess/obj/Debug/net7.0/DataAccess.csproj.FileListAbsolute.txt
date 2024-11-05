@@ -1,0 +1,17 @@
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/bin/Debug/net7.0/DataAccess.runtimeconfig.json
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/bin/Debug/net7.0/DTO.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/bin/Debug/net7.0/DTO.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
+/Users/mikkelkristensen/GitHub/CSharp/Undervisning/dotnet/Opgaver/Lektion14Opgave/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll

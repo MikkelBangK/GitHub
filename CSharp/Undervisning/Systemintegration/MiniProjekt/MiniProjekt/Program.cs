@@ -123,6 +123,7 @@ namespace MiniProjekt
 
                     int sekvens = 1;
                     int position = 0;
+                    
                     // Udfør XPath-forespørgsel
                     XmlNode itemNode = xml.SelectSingleNode("/FlightDetailsInfoResponse/Passenger");
                     if (itemNode != null)

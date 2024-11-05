@@ -12,13 +12,7 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/Users/mikkelkristensen/.nuget/packages/" />
   </ItemGroup>
-  <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-android' AND '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.20/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.20/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props')" />
-  </ImportGroup>
-  <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-ios' AND '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.20/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.20/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props')" />
-  </ImportGroup>
-  <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-maccatalyst' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.20/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.20/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props')" />
   </ImportGroup>
 </Project>
